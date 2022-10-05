@@ -1,4 +1,4 @@
-安装命令 \n
+安装命令<br>
 dpkg -i phddns_3.0.4_systemd.deb
 记下SN:  和Default password:
 输入phddns回车后，可以看到扩展的功能：
