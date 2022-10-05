@@ -1,3 +1,4 @@
+亲测在玩客云armbian上安装成功<br>
 安装命令<br>
 dpkg -i phddns_3.0.4_systemd.deb<br>
 记下SN:  和Default password:<br>
